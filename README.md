@@ -20,3 +20,10 @@
      </activity-alias>
 ```
 
+### MUKASHISound-automotive-debug.apk
+
+- License: GPL-3.0
+- Repository: https://github.com/mikkikimasutaro/MUKASHISound_src
+- Description: Because apk is't provided on github, built it as-is.
+
+
